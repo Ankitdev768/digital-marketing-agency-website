@@ -1,0 +1,39 @@
+{
+  "name": "digital-marketing-agency-website",
+  "version": "1.0.0",
+  "description": "A modern digital marketing agency website built with React, Vite, Tailwind CSS, Three.js, and GSAP",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "lint": "eslint src --ext js,jsx"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "three": "^r161",
+    "gsap": "^3.12.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.2.0",
+    "vite": "^5.0.0",
+    "tailwindcss": "^3.4.0",
+    "postcss": "^8.4.31",
+    "autoprefixer": "^10.4.16",
+    "eslint": "^8.54.0",
+    "eslint-plugin-react": "^7.33.2"
+  },
+  "keywords": [
+    "digital-marketing",
+    "agency",
+    "website",
+    "react",
+    "vite",
+    "three.js",
+    "gsap",
+    "tailwind-css"
+  ],
+  "author": "Ankitdev768",
+  "license": "MIT"
+}
